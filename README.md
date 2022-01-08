@@ -13,5 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naruki-Ichihara&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naruki-Ichihara)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naruki-Ichihara&theme=vue)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naruki-Ichihara&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naruki-Ichihara&theme=vue)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naruki-Ichihara&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naruki-Ichihara&theme=vue)
