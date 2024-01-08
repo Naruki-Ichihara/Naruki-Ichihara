@@ -7,11 +7,4 @@ Hi! I'm Naruki Ichihara!
 - 🔭 I’m currently working on 3D printing of composite materials.
 - 🌱 I’m currently learning topology and path optimization in 3D printing!
 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naruki-Ichihara&theme=vue)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naruki-Ichihara&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naruki-Ichihara&theme=vue)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naruki-Ichihara&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naruki-Ichihara&theme=vue)
